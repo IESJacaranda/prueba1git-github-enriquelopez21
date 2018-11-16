@@ -3,7 +3,7 @@ Conde García, Juan Manuel
 Feim Faik, Oktay
 Filip, Robert
 García Mateos, Gonzalo
-López Martínez, Enrique
+~~López Martínez, Enrique~~
 Melero Benítez, Manuel
 Mozo Moreno, Herminia
 Naranjo Abril, Raúl
